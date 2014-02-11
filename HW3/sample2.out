@@ -1,0 +1,10 @@
+DEPEND A B
+INSTALL A
+	Installing B
+	Installing A
+INSTALL B
+	B is already installed.
+REMOVE A
+	Removing A
+	Removing B
+END
